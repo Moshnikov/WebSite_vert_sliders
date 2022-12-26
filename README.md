@@ -1,2 +1,1 @@
-# WebSite_vert_sliders
-# To test website just run local server
+# To test page just run local server or goto https://moshnikov.github.io/sliders/
